@@ -264,11 +264,6 @@ streamlit-vertical-slider==2.5.5
 sympy==1.12
 tbb==2021.12.0
 tenacity==8.2.3
-tensorboard==2.16.2
-tensorboard-data-server==0.7.2
-tensorflow==2.16.1
-tensorflow-intel==2.16.1
-tensorflow-io-gcs-filesystem==0.31.0
 termcolor==1.1.0
 thinc==8.2.3
 threadpoolctl==3.5.0
